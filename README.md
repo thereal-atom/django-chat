@@ -10,3 +10,4 @@ at the moment it's basically as bare bones as it can be as I wanted to get it do
 - [ ] proper input validation
 - [ ] improved project structure
 - [ ] clean up code (centralized error handling, middleware to parse json properly, less repeated code, etc)
+- [ ] next.js front end
